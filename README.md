@@ -1,15 +1,18 @@
 # Summer 2027 Software Engineering Internships
 
-Updated every 2 hours from [swejoblists.com](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships) (free, no account). Last update: 2026-10-17 12:05 UTC.
+Updated every 2 hours from [swejoblists.com](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships) (free, no account). Last update: 2026-10-17 15:26 UTC.
 
 Looking for new grad roles? See [TheoXiong7/2027-New-Grad-SWE-Jobs](https://github.com/TheoXiong7/2027-New-Grad-SWE-Jobs).
 
-**2,782 open roles** from **810 companies**, **2,251** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
+**2,785 open roles** from **812 companies**, **2,254** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
 
 **H-1B column**: Yes / Likely / Unlikely / No = how likely the employer sponsors an H-1B visa for the role; — = not labelled yet. A model reads each posting; it is a screen, not a guarantee.
 
 | Company | Role | Location | H-1B | Posted |
 |---|---|---|:---:|---|
+| [Assort Health](https://swejoblists.com/company/assort-health?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Software Engineering Internship (Jan - Apr 2027)](https://swejoblists.com/jobs/software-engineering-internship-jan-apr-2027-assort-health-45841?utm_source=github&utm_medium=readme&utm_campaign=internships) | San Francisco | Likely | 1d |
+| [AgZen](https://swejoblists.com/company/agzen?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Software Engineering Co-op](https://swejoblists.com/jobs/software-engineering-co-op-agzen-45840?utm_source=github&utm_medium=readme&utm_campaign=internships) | Somerville, MA | Unlikely | 1d |
+| [AgZen](https://swejoblists.com/company/agzen?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Research & Development Engineering Co-op](https://swejoblists.com/jobs/research-development-engineering-co-op-agzen-45839?utm_source=github&utm_medium=readme&utm_campaign=internships) | Somerville, MA | Unlikely | 1d |
 | [Wavestone](https://swejoblists.com/company/wavestone?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Cloud Connect : Architecture applicative, intégration et middleware : quels défis pour la modernisation du SI ? (Stage de fin d'études)](https://swejoblists.com/jobs/cloud-connect-architecture-applicative-integration-et-middleware-quels-defis-wavestone-45822?utm_source=github&utm_medium=readme&utm_campaign=internships) | Paris, Île-de-France, France | Unlikely | 1d |
 | [Wavestone](https://swejoblists.com/company/wavestone?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Cloud : Comment adapter les systèmes d'information aux enjeux de résilience et de souveraineté ? (Stage de fin d'études)](https://swejoblists.com/jobs/cloud-comment-adapter-les-systemes-d-information-aux-enjeux-de-resilience-et-de-wavestone-45821?utm_source=github&utm_medium=readme&utm_campaign=internships) | Paris, Île-de-France, France | Unlikely | 1d |
 | [Wavestone](https://swejoblists.com/company/wavestone?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Comment faire du Cloud un levier de transformation du système d'information ? (Stage de fin d'études)](https://swejoblists.com/jobs/comment-faire-du-cloud-un-levier-de-transformation-du-systeme-d-information-wavestone-45820?utm_source=github&utm_medium=readme&utm_campaign=internships) | Paris, Île-de-France, France | Unlikely | 1d |
@@ -1007,11 +1010,8 @@ Looking for new grad roles? See [TheoXiong7/2027-New-Grad-SWE-Jobs](https://gith
 | [Coinbase](https://swejoblists.com/company/coinbase?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Analytics Engineer Intern](https://swejoblists.com/jobs/analytics-engineer-intern-coinbase-42934?utm_source=github&utm_medium=readme&utm_campaign=internships) | Hybrid - New York, NY | Likely | 1d |
 | [ASSYSTEM](https://swejoblists.com/company/assystem?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Développeur DEVOPS Géomatique - Stage - H/F](https://swejoblists.com/jobs/developpeur-devops-geomatique-stage-h-f-assystem-42927?utm_source=github&utm_medium=readme&utm_campaign=internships) | Le Petit-Quevilly, Normandy, France | Unlikely | 1d |
 | [ASSYSTEM](https://swejoblists.com/company/assystem?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Développeur Full Stack - Stage - H/F](https://swejoblists.com/jobs/developpeur-full-stack-stage-h-f-assystem-42926?utm_source=github&utm_medium=readme&utm_campaign=internships) | Le Petit-Quevilly, Normandy, France | Unlikely | 1d |
-| [Extreme Networks](https://swejoblists.com/company/extreme-networks?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Intern - Lab/TAC Network Engineer](https://swejoblists.com/jobs/intern-lab-tac-network-engineer-extreme-networks-42904?utm_source=github&utm_medium=readme&utm_campaign=internships) | Raleigh, North Carolina, United States | Likely | 1d |
-| [Firetiger](https://swejoblists.com/company/firetiger?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Product Engineer — Intern/Co-op](https://swejoblists.com/jobs/product-engineer-intern-co-op-firetiger-42902?utm_source=github&utm_medium=readme&utm_campaign=internships) | San Francisco | Likely | 1d |
-| [Equativ](https://swejoblists.com/company/equativ?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Generative AI Engineer Intern, Internal Automation (6 months from February 2027)](https://swejoblists.com/jobs/generative-ai-engineer-intern-internal-automation-6-months-from-february-2027-equativ-42900?utm_source=github&utm_medium=readme&utm_campaign=internships) | Paris | Unlikely | 1d |
 
-Showing the first 1,000 of 2,782 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 2,782 on [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
+Showing the first 1,000 of 2,785 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 2,785 on [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
 
 ---
 
