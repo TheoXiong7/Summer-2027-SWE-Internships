@@ -1,15 +1,16 @@
 # Summer 2027 Software Engineering Internships
 
-Updated every 2 hours from [swejoblists.com](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships) (free, no account). Last update: 2026-10-18 04:07 UTC.
+Updated every 2 hours from [swejoblists.com](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships) (free, no account). Last update: 2026-10-18 10:48 UTC.
 
 Looking for new grad roles? See [TheoXiong7/2027-New-Grad-SWE-Jobs](https://github.com/TheoXiong7/2027-New-Grad-SWE-Jobs).
 
-**2,769 open roles** from **804 companies**, **2,229** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
+**2,770 open roles** from **804 companies**, **2,230** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
 
 **H-1B column**: Yes / Likely / Unlikely / No = how likely the employer sponsors an H-1B visa for the role; — = not labelled yet. A model reads each posting; it is a screen, not a guarantee.
 
 | Company | Role | Location | H-1B | Posted |
 |---|---|---|:---:|---|
+| [Leonardo](https://swejoblists.com/company/leonardo?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Software Engineer Intern](https://swejoblists.com/jobs/software-engineer-intern-leonardo-45852?utm_source=github&utm_medium=readme&utm_campaign=internships) | Newcastle upon Tyne | Unlikely | 0d |
 | [Leonardo](https://swejoblists.com/company/leonardo?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Software Engineer Placement Intern](https://swejoblists.com/jobs/software-engineer-placement-intern-leonardo-45851?utm_source=github&utm_medium=readme&utm_campaign=internships) | Basildon | Unlikely | 0d |
 | [Leonardo](https://swejoblists.com/company/leonardo?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Software Engineer Intern](https://swejoblists.com/jobs/software-engineer-intern-leonardo-45850?utm_source=github&utm_medium=readme&utm_campaign=internships) | Edinburgh | Unlikely | 0d |
 | [Clera](https://swejoblists.com/company/clera?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Computer Vision & Robotics Intern](https://swejoblists.com/jobs/computer-vision-robotics-intern-clera-45848?utm_source=github&utm_medium=readme&utm_campaign=internships) | San Francisco | Yes | 1d |
@@ -1009,9 +1010,8 @@ Looking for new grad roles? See [TheoXiong7/2027-New-Grad-SWE-Jobs](https://gith
 | [Coinbase](https://swejoblists.com/company/coinbase?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Machine Learning Engineer Intern](https://swejoblists.com/jobs/machine-learning-engineer-intern-coinbase-42938?utm_source=github&utm_medium=readme&utm_campaign=internships) | Hybrid - San Francisco, CA | Likely | 2d |
 | [Coinbase](https://swejoblists.com/company/coinbase?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Learning & Development Intern](https://swejoblists.com/jobs/learning-development-intern-coinbase-42937?utm_source=github&utm_medium=readme&utm_campaign=internships) | Hybrid - New York, NY | Likely | 2d |
 | [Coinbase](https://swejoblists.com/company/coinbase?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Data Science Intern](https://swejoblists.com/jobs/data-science-intern-coinbase-42936?utm_source=github&utm_medium=readme&utm_campaign=internships) | Hybrid - New York, NY | Likely | 2d |
-| [Coinbase](https://swejoblists.com/company/coinbase?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Data Engineer Intern](https://swejoblists.com/jobs/data-engineer-intern-coinbase-42935?utm_source=github&utm_medium=readme&utm_campaign=internships) | Hybrid - San Francisco, CA | Likely | 2d |
 
-Showing the first 1,000 of 2,769 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 2,769 on [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
+Showing the first 1,000 of 2,770 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 2,770 on [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
 
 ---
 
