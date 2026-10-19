@@ -1,15 +1,19 @@
 # Summer 2027 Software Engineering Internships
 
-Updated every 2 hours from [swejoblists.com](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships) (free, no account). Last update: 2026-10-19 04:16 UTC.
+Updated every 2 hours from [swejoblists.com](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships) (free, no account). Last update: 2026-10-19 12:49 UTC.
 
 Looking for new grad roles? See [TheoXiong7/2027-New-Grad-SWE-Jobs](https://github.com/TheoXiong7/2027-New-Grad-SWE-Jobs).
 
-**2,762 open roles** from **802 companies**, **2,228** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
+**2,767 open roles** from **803 companies**, **2,233** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
 
 **H-1B column**: Yes / Likely / Unlikely / No = how likely the employer sponsors an H-1B visa for the role; — = not labelled yet. A model reads each posting; it is a screen, not a guarantee.
 
 | Company | Role | Location | H-1B | Posted |
 |---|---|---|:---:|---|
+| [Experian](https://swejoblists.com/company/experian?utm_source=github&utm_medium=readme&utm_campaign=internships) | [AI Developer Intern](https://swejoblists.com/jobs/ai-developer-intern-experian-45861?utm_source=github&utm_medium=readme&utm_campaign=internships) | Cyberjaya, Selangor, Malaysia | Unlikely | 0d |
+| [Johnson & Johnson](https://swejoblists.com/company/johnson-johnson?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Quality Data Science Co-Op , Summer 2027](https://swejoblists.com/jobs/quality-data-science-co-op-summer-2027-johnson-johnson-45859?utm_source=github&utm_medium=readme&utm_campaign=internships) | Cincinnati, Ohio, United States | No | 0d |
+| [Tower Research Capital](https://swejoblists.com/company/tower-research-capital?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Software Engineer, C++ - 6 Month Internship Opportunity](https://swejoblists.com/jobs/software-engineer-c-6-month-internship-opportunity-tower-research-capital-45858?utm_source=github&utm_medium=readme&utm_campaign=internships) | Singapore | Unlikely | 0d |
+| [Western Digital](https://swejoblists.com/company/western-digital?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Intern - Data Analytics](https://swejoblists.com/jobs/intern-data-analytics-western-digital-45857?utm_source=github&utm_medium=readme&utm_campaign=internships) | Biñan City, LAGUNA, Philippines | Unlikely | 0d |
 | [AECOM](https://swejoblists.com/company/aecom?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Traffic Engineering Intern - Hiring Event with AECOM - Raleigh](https://swejoblists.com/jobs/traffic-engineering-intern-hiring-event-with-aecom-raleigh-aecom-45853?utm_source=github&utm_medium=readme&utm_campaign=internships) | Raleigh, NC, United States | No | 1d |
 | [Leonardo](https://swejoblists.com/company/leonardo?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Software Engineer Intern](https://swejoblists.com/jobs/software-engineer-intern-leonardo-45852?utm_source=github&utm_medium=readme&utm_campaign=internships) | Newcastle upon Tyne | Unlikely | 1d |
 | [Leonardo](https://swejoblists.com/company/leonardo?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Software Engineer Placement Intern](https://swejoblists.com/jobs/software-engineer-placement-intern-leonardo-45851?utm_source=github&utm_medium=readme&utm_campaign=internships) | Basildon | Unlikely | 1d |
@@ -1006,12 +1010,8 @@ Looking for new grad roles? See [TheoXiong7/2027-New-Grad-SWE-Jobs](https://gith
 | [Compeer Financial](https://swejoblists.com/company/compeer-financial?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Intern Engineering](https://swejoblists.com/jobs/intern-engineering-compeer-financial-42943?utm_source=github&utm_medium=readme&utm_campaign=internships) | WI - Sun Prairie | No | 3d |
 | [Compeer Financial](https://swejoblists.com/company/compeer-financial?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Intern Engineering](https://swejoblists.com/jobs/intern-engineering-compeer-financial-42942?utm_source=github&utm_medium=readme&utm_campaign=internships) | WI-Sun Prairie; IL-Bloomington | No | 3d |
 | [Compeer Financial](https://swejoblists.com/company/compeer-financial?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Intern Engineering](https://swejoblists.com/jobs/intern-engineering-compeer-financial-42941?utm_source=github&utm_medium=readme&utm_campaign=internships) | IL-Bloomington; WI-SunPrairie | No | 3d |
-| [FOTH](https://swejoblists.com/company/foth?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Coastal Engineering Intern (Summer 2027)](https://swejoblists.com/jobs/coastal-engineering-intern-summer-2027-foth-42940?utm_source=github&utm_medium=readme&utm_campaign=internships) | Jacksonville, Florida | Unlikely | 3d |
-| [Forus](https://swejoblists.com/company/forus?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Engineering Intern (Fall '26 & Spring/Summer '27)](https://swejoblists.com/jobs/engineering-intern-fall-26-spring-summer-27-forus-42939?utm_source=github&utm_medium=readme&utm_campaign=internships) | New York office | Likely | 3d |
-| [Coinbase](https://swejoblists.com/company/coinbase?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Machine Learning Engineer Intern](https://swejoblists.com/jobs/machine-learning-engineer-intern-coinbase-42938?utm_source=github&utm_medium=readme&utm_campaign=internships) | Hybrid - San Francisco, CA | Likely | 3d |
-| [Coinbase](https://swejoblists.com/company/coinbase?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Learning & Development Intern](https://swejoblists.com/jobs/learning-development-intern-coinbase-42937?utm_source=github&utm_medium=readme&utm_campaign=internships) | Hybrid - New York, NY | Likely | 3d |
 
-Showing the first 1,000 of 2,762 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 2,762 on [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
+Showing the first 1,000 of 2,767 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 2,767 on [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
 
 ---
 
