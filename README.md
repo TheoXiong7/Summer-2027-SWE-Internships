@@ -1,10 +1,10 @@
 # Summer 2027 Software Engineering Internships
 
-Updated every 2 hours from [swejoblists.com](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships) (free, no account). Last update: 2026-10-21 07:24 UTC.
+Updated every 2 hours from [swejoblists.com](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships) (free, no account). Last update: 2026-10-21 13:39 UTC.
 
 Looking for new grad roles? See [TheoXiong7/2027-New-Grad-SWE-Jobs](https://github.com/TheoXiong7/2027-New-Grad-SWE-Jobs).
 
-**2,908 open roles** from **835 companies**, **2,314** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
+**2,909 open roles** from **835 companies**, **2,313** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
 
 **H-1B column**: Yes / Likely / Unlikely / No = how likely the employer sponsors an H-1B visa for the role; — = not labelled yet. A model reads each posting; it is a screen, not a guarantee.
 
@@ -16,6 +16,7 @@ Looking for new grad roles? See [TheoXiong7/2027-New-Grad-SWE-Jobs](https://gith
 | [Smith+Nephew](https://swejoblists.com/company/smith-nephew?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Intern Embedded Software Engineering](https://swejoblists.com/jobs/intern-embedded-software-engineering-smith-nephew-46259?utm_source=github&utm_medium=readme&utm_campaign=internships) | Andover | No | 0d |
 | [Smith+Nephew](https://swejoblists.com/company/smith-nephew?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Intern Agentic AI Software Engineering](https://swejoblists.com/jobs/intern-agentic-ai-software-engineering-smith-nephew-46258?utm_source=github&utm_medium=readme&utm_campaign=internships) | Andover | No | 0d |
 | [Shield AI](https://swejoblists.com/company/shield-ai?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Summer 2027 - Data Science Intern (R6324)](https://swejoblists.com/jobs/summer-2027-data-science-intern-r6324-shield-ai-46255?utm_source=github&utm_medium=readme&utm_campaign=internships) | San Diego | Unlikely | 0d |
+| [NVIDIA](https://swejoblists.com/company/nvidia?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Systems Software Intern - Aerial PHY 🎓](https://swejoblists.com/jobs/systems-software-intern-aerial-phy-nvidia-46286?utm_source=github&utm_medium=readme&utm_campaign=internships) | Santa Clara | Likely | 1d |
 | [Robert Bosch Venture Capital](https://swejoblists.com/company/robert-bosch-venture-capital?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Data Analytics & AI Support Internship](https://swejoblists.com/jobs/data-analytics-ai-support-internship-robert-bosch-venture-capital-46285?utm_source=github&utm_medium=readme&utm_campaign=internships) | Beograd, , Serbia | Unlikely | 1d |
 | [Robert Bosch Venture Capital](https://swejoblists.com/company/robert-bosch-venture-capital?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Extracurricular Internship: AI-Assisted Software Engineering Intern (f/m/div.)](https://swejoblists.com/jobs/extracurricular-internship-ai-assisted-software-engineering-intern-f-m-div-robert-bosch-venture-capital-46284?utm_source=github&utm_medium=readme&utm_campaign=internships) | Ovar, , Portugal | Unlikely | 1d |
 | [PA Consulting](https://swejoblists.com/company/pa-consulting?utm_source=github&utm_medium=readme&utm_campaign=internships) | [2027 Summer Internship - Digital (Digital Trust & Cyber Security) - London](https://swejoblists.com/jobs/2027-summer-internship-digital-digital-trust-cyber-security-london-pa-consulting-46273?utm_source=github&utm_medium=readme&utm_campaign=internships) | London, , United Kingdom | Unlikely | 1d |
@@ -1009,9 +1010,8 @@ Looking for new grad roles? See [TheoXiong7/2027-New-Grad-SWE-Jobs](https://gith
 | [Palantir](https://swejoblists.com/company/palantir?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Forward Deployed Software Engineer, Internship - AUS Government](https://swejoblists.com/jobs/forward-deployed-software-engineer-internship-aus-government-palantir-43356?utm_source=github&utm_medium=readme&utm_campaign=internships) | Sydney, Australia | Unlikely | 5d |
 | [Palantir](https://swejoblists.com/company/palantir?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Forward Deployed Software Engineer, Internship](https://swejoblists.com/jobs/forward-deployed-software-engineer-internship-palantir-43355?utm_source=github&utm_medium=readme&utm_campaign=internships) | Paris, France | Unlikely | 5d |
 | [Palantir](https://swejoblists.com/company/palantir?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Forward Deployed Infrastructure Engineer, Internship - US Government](https://swejoblists.com/jobs/forward-deployed-infrastructure-engineer-internship-us-government-palantir-43349?utm_source=github&utm_medium=readme&utm_campaign=internships) | New York, NY | No | 5d |
-| [Palantir](https://swejoblists.com/company/palantir?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Forward Deployed Infrastructure Engineer, Internship - US Government](https://swejoblists.com/jobs/forward-deployed-infrastructure-engineer-internship-us-government-palantir-43348?utm_source=github&utm_medium=readme&utm_campaign=internships) | Palo Alto, CA | No | 5d |
 
-Showing the first 1,000 of 2,908 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 2,908 on [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
+Showing the first 1,000 of 2,909 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 2,909 on [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
 
 ---
 
