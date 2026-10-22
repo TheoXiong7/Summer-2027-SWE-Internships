@@ -1,15 +1,16 @@
 # Summer 2027 Software Engineering Internships
 
-Updated every 2 hours from [swejoblists.com](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships) (free, no account). Last update: 2026-10-22 11:34 UTC.
+Updated every 2 hours from [swejoblists.com](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships) (free, no account). Last update: 2026-10-22 16:59 UTC.
 
 Looking for new grad roles? See [TheoXiong7/2027-New-Grad-SWE-Jobs](https://github.com/TheoXiong7/2027-New-Grad-SWE-Jobs).
 
-**2,936 open roles** from **847 companies**, **2,343** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
+**2,937 open roles** from **848 companies**, **2,342** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
 
 **H-1B column**: Yes / Likely / Unlikely / No = how likely the employer sponsors an H-1B visa for the role; — = not labelled yet. A model reads each posting; it is a screen, not a guarantee.
 
 | Company | Role | Location | H-1B | Posted |
 |---|---|---|:---:|---|
+| [Uline](https://swejoblists.com/company/uline?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Software Developer Intern](https://swejoblists.com/jobs/software-developer-intern-uline-46467?utm_source=github&utm_medium=readme&utm_campaign=internships) | 5 locationsWaukegan | Unlikely | 0d |
 | [Coinbase](https://swejoblists.com/company/coinbase?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Software Engineer Intern](https://swejoblists.com/jobs/software-engineer-intern-coinbase-46465?utm_source=github&utm_medium=readme&utm_campaign=internships) | Hybrid - Singapore | Unlikely | 0d |
 | [TD Bank](https://swejoblists.com/company/td-bank?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Technology Intern](https://swejoblists.com/jobs/technology-intern-td-bank-46450?utm_source=github&utm_medium=readme&utm_campaign=internships) | London | Unlikely | 0d |
 | [Hewlett Packard Enterprise](https://swejoblists.com/company/hewlett-packard-enterprise?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Software Development Intern - AI-Assisted Development](https://swejoblists.com/jobs/software-development-intern-ai-assisted-development-hewlett-packard-enterprise-46466?utm_source=github&utm_medium=readme&utm_campaign=internships) | Saint-Laurent | Unlikely | 1d |
@@ -1009,9 +1010,8 @@ Looking for new grad roles? See [TheoXiong7/2027-New-Grad-SWE-Jobs](https://gith
 | [InterSystems](https://swejoblists.com/company/intersystems?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Micro-Intern: Angular/FHIR Development (IAP)](https://swejoblists.com/jobs/micro-intern-angular-fhir-development-iap-intersystems-43558?utm_source=github&utm_medium=readme&utm_campaign=internships) | Boston, MA | Likely | 6d |
 | [Integra FEC](https://swejoblists.com/company/integra-fec?utm_source=github&utm_medium=readme&utm_campaign=internships) | [(SUMMER) Data Scientist Intern - PhD](https://swejoblists.com/jobs/summer-data-scientist-intern-phd-integra-fec-43555?utm_source=github&utm_medium=readme&utm_campaign=internships) | Austin, Texas | No | 6d |
 | [Integra FEC](https://swejoblists.com/company/integra-fec?utm_source=github&utm_medium=readme&utm_campaign=internships) | [(SUMMER) Data Analyst Intern](https://swejoblists.com/jobs/summer-data-analyst-intern-integra-fec-43554?utm_source=github&utm_medium=readme&utm_campaign=internships) | Austin, Texas | No | 6d |
-| [Integra FEC](https://swejoblists.com/company/integra-fec?utm_source=github&utm_medium=readme&utm_campaign=internships) | [(SPRING) Data Scientist Intern - PhD](https://swejoblists.com/jobs/spring-data-scientist-intern-phd-integra-fec-43553?utm_source=github&utm_medium=readme&utm_campaign=internships) | Austin, Texas | No | 6d |
 
-Showing the first 1,000 of 2,936 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 2,936 on [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
+Showing the first 1,000 of 2,937 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 2,937 on [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
 
 ---
 
