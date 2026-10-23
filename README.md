@@ -1,15 +1,16 @@
 # Summer 2027 Software Engineering Internships
 
-Updated every 2 hours from [swejoblists.com](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships) (free, no account). Last update: 2026-10-23 07:18 UTC.
+Updated every 2 hours from [swejoblists.com](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships) (free, no account). Last update: 2026-10-23 13:17 UTC.
 
 Looking for new grad roles? See [TheoXiong7/2027-New-Grad-SWE-Jobs](https://github.com/TheoXiong7/2027-New-Grad-SWE-Jobs).
 
-**2,988 open roles** from **848 companies**, **595** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
+**2,989 open roles** from **848 companies**, **561** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
 
 **H-1B column**: Yes / Likely / Unlikely / No = how likely the employer sponsors an H-1B visa for the role; — = not labelled yet. A model reads each posting; it is a screen, not a guarantee.
 
 | Company | Role | Location | H-1B | Posted |
 |---|---|---|:---:|---|
+| [NielsenIQ](https://swejoblists.com/company/nielseniq?utm_source=github&utm_medium=readme&utm_campaign=internships) | [NIQ Early Career Program: Stage - Business & Data Analyst F/H](https://swejoblists.com/jobs/niq-early-career-program-stage-business-data-analyst-f-h-nielseniq-46662?utm_source=github&utm_medium=readme&utm_campaign=internships) | Paris, 75C, France | Unlikely | 0d |
 | [DoorDash](https://swejoblists.com/company/doordash?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Operations Research Intern 🎓](https://swejoblists.com/jobs/operations-research-intern-doordash-46642?utm_source=github&utm_medium=readme&utm_campaign=internships) | Sunnyvale | Likely | 0d |
 | [Amazon](https://swejoblists.com/company/amazon?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Systems Development Engineer Intern](https://swejoblists.com/jobs/systems-development-engineer-intern-amazon-46641?utm_source=github&utm_medium=readme&utm_campaign=internships) | Vancouver | Unlikely | 0d |
 | [Amazon](https://swejoblists.com/company/amazon?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Systems Development Engineer Intern](https://swejoblists.com/jobs/systems-development-engineer-intern-amazon-46640?utm_source=github&utm_medium=readme&utm_campaign=internships) | Bellevue | Likely | 0d |
@@ -1009,9 +1010,8 @@ Looking for new grad roles? See [TheoXiong7/2027-New-Grad-SWE-Jobs](https://gith
 | [ShopBack](https://swejoblists.com/company/shopback?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Operations Automation Engineer Intern](https://swejoblists.com/jobs/operations-automation-engineer-intern-shopback-43783?utm_source=github&utm_medium=readme&utm_campaign=internships) | Singapore, Singapore | Unlikely | Oct 16 |
 | [ShopBack](https://swejoblists.com/company/shopback?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Data Analyst (Internship) (H1 2027)](https://swejoblists.com/jobs/data-analyst-internship-h1-2027-shopback-43782?utm_source=github&utm_medium=readme&utm_campaign=internships) | Singapore, Singapore | Unlikely | Oct 16 |
 | [Shield AI](https://swejoblists.com/company/shield-ai?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Supplier Development Engineer (R4621)](https://swejoblists.com/jobs/supplier-development-engineer-r4621-shield-ai-43780?utm_source=github&utm_medium=readme&utm_campaign=internships) | Taipei | Unlikely | Oct 16 |
-| [Shield AI](https://swejoblists.com/company/shield-ai?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Software Engineer C++ (R5716)](https://swejoblists.com/jobs/software-engineer-c-r5716-shield-ai-43779?utm_source=github&utm_medium=readme&utm_campaign=internships) | Melbourne | Unlikely | Oct 16 |
 
-Showing the first 1,000 of 2,988 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 2,988 on [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
+Showing the first 1,000 of 2,989 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 2,989 on [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
 
 ---
 
