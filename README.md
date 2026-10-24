@@ -1,15 +1,17 @@
 # Summer 2027 Software Engineering Internships
 
-Updated every 2 hours from [swejoblists.com](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships) (free, no account). Last update: 2026-10-24 04:14 UTC.
+Updated every 2 hours from [swejoblists.com](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships) (free, no account). Last update: 2026-10-24 10:43 UTC.
 
 Looking for new grad roles? See [TheoXiong7/2027-New-Grad-SWE-Jobs](https://github.com/TheoXiong7/2027-New-Grad-SWE-Jobs).
 
-**3,060 open roles** from **854 companies**, **587** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
+**3,030 open roles** from **855 companies**, **572** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
 
 **H-1B column**: Yes / Likely / Unlikely / No = how likely the employer sponsors an H-1B visa for the role; — = not labelled yet. A model reads each posting; it is a screen, not a guarantee.
 
 | Company | Role | Location | H-1B | Posted |
 |---|---|---|:---:|---|
+| [FightCamp](https://swejoblists.com/company/fightcamp?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Developer Productivity Intern \[Winter 2027\]](https://swejoblists.com/jobs/developer-productivity-intern-winter-2027-fightcamp-46867?utm_source=github&utm_medium=readme&utm_campaign=internships) | San Jose, CA | Likely | 0d |
+| [Sardine](https://swejoblists.com/company/sardine?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Summer Engineering Internship](https://swejoblists.com/jobs/summer-engineering-internship-sardine-46868?utm_source=github&utm_medium=readme&utm_campaign=internships) | North America | Unlikely | 1d |
 | [Waymo](https://swejoblists.com/company/waymo?utm_source=github&utm_medium=readme&utm_campaign=internships) | [2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations](https://swejoblists.com/jobs/2027-summer-intern-ms-phd-machine-learning-driver-refinement-foundations-waymo-46863?utm_source=github&utm_medium=readme&utm_campaign=internships) | San Francisco, CA, USA | Likely | 0d |
 | [Sun Life](https://swejoblists.com/company/sun-life?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Data Science Intern - Summer 2027 Intern](https://swejoblists.com/jobs/data-science-intern-summer-2027-intern-sun-life-46850?utm_source=github&utm_medium=readme&utm_campaign=internships) | Wellesley Hills | Unlikely | 1d |
 | [Hewlett Packard Enterprise](https://swejoblists.com/company/hewlett-packard-enterprise?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Cybersecurity Engineering Intern](https://swejoblists.com/jobs/cybersecurity-engineering-intern-hewlett-packard-enterprise-46849?utm_source=github&utm_medium=readme&utm_campaign=internships) | Spring, Texas, United States | Likely | 1d |
@@ -1008,10 +1010,8 @@ Looking for new grad roles? See [TheoXiong7/2027-New-Grad-SWE-Jobs](https://gith
 | [Olsson](https://swejoblists.com/company/olsson?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Engineering Internship - Water Resources](https://swejoblists.com/jobs/engineering-internship-water-resources-olsson-44061?utm_source=github&utm_medium=readme&utm_campaign=internships) | Lincoln, NE | Unlikely | Oct 16 |
 | [Olsson](https://swejoblists.com/company/olsson?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Engineering Internship - Water Resources](https://swejoblists.com/jobs/engineering-internship-water-resources-olsson-44060?utm_source=github&utm_medium=readme&utm_campaign=internships) | Dallas, TX | Unlikely | Oct 16 |
 | [Olsson](https://swejoblists.com/company/olsson?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Engineering Internship - Water Resources](https://swejoblists.com/jobs/engineering-internship-water-resources-olsson-44059?utm_source=github&utm_medium=readme&utm_campaign=internships) | Fayetteville, AR; Little Rock, AR | Unlikely | Oct 16 |
-| [Olsson](https://swejoblists.com/company/olsson?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Engineering Internship - Transmission and Distribution](https://swejoblists.com/jobs/engineering-internship-transmission-and-distribution-olsson-44058?utm_source=github&utm_medium=readme&utm_campaign=internships) | Lincoln, NE; Omaha, NE; Phoenix, AZ | Unlikely | Oct 16 |
-| [Olsson](https://swejoblists.com/company/olsson?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Engineering Internship - Substation and Power Generation](https://swejoblists.com/jobs/engineering-internship-substation-and-power-generation-olsson-44057?utm_source=github&utm_medium=readme&utm_campaign=internships) | Joplin, MO | Unlikely | Oct 16 |
 
-Showing the first 1,000 of 3,060 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 3,060 on [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
+Showing the first 1,000 of 3,030 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 3,030 on [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
 
 ---
 
