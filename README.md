@@ -1,10 +1,10 @@
 # Summer 2027 Software Engineering Internships
 
-Updated every 2 hours from [swejoblists.com](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships) (free, no account). Last update: 2026-10-24 18:42 UTC.
+Updated every 2 hours from [swejoblists.com](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships) (free, no account). Last update: 2026-10-24 22:23 UTC.
 
 Looking for new grad roles? See [TheoXiong7/2027-New-Grad-SWE-Jobs](https://github.com/TheoXiong7/2027-New-Grad-SWE-Jobs).
 
-**3,032 open roles** from **856 companies**, **571** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
+**3,034 open roles** from **856 companies**, **569** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
 
 **H-1B column**: Yes / Likely / Unlikely / No = how likely the employer sponsors an H-1B visa for the role; — = not labelled yet. A model reads each posting; it is a screen, not a guarantee.
 
@@ -405,6 +405,7 @@ Looking for new grad roles? See [TheoXiong7/2027-New-Grad-SWE-Jobs](https://gith
 | [Verizon Communications](https://swejoblists.com/company/verizon-communications?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Verizon Consumer Group: Data Science Summer 2027 Internship](https://swejoblists.com/jobs/verizon-consumer-group-data-science-summer-2027-internship-verizon-communications-46004?utm_source=github&utm_medium=readme&utm_campaign=internships) | Basking Ridge | No | 4d |
 | [Verizon Communications](https://swejoblists.com/company/verizon-communications?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Basking Ridge, NJ: VTeamer for a Day: Verizon Consumer Group: Data Science Summer 2027 Internship](https://swejoblists.com/jobs/basking-ridge-nj-vteamer-for-a-day-verizon-consumer-group-data-science-summer-verizon-communications-46003?utm_source=github&utm_medium=readme&utm_campaign=internships) | Basking Ridge | No | 4d |
 | [Persona](https://swejoblists.com/company/persona?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Field Product Engineer, Summer 2027](https://swejoblists.com/jobs/field-product-engineer-summer-2027-persona-45994?utm_source=github&utm_medium=readme&utm_campaign=internships) | San Francisco | Likely | 4d |
+| [Marvell](https://swejoblists.com/company/marvell?utm_source=github&utm_medium=readme&utm_campaign=internships) | [AI Data Science Intern, MS - Summer 2027](https://swejoblists.com/jobs/ai-data-science-intern-ms-summer-2027-marvell-46872?utm_source=github&utm_medium=readme&utm_campaign=internships) | Santa Clara | Unlikely | 5d |
 | [Adobe](https://swejoblists.com/company/adobe?utm_source=github&utm_medium=readme&utm_campaign=internships) | [AI & Architecture Intern](https://swejoblists.com/jobs/ai-architecture-intern-adobe-46772?utm_source=github&utm_medium=readme&utm_campaign=internships) | San Jose | Likely | 5d |
 | [General Dynamics Mission Systems](https://swejoblists.com/company/general-dynamics-mission-systems?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Intern Engineer - Electrical or Firmware](https://swejoblists.com/jobs/intern-engineer-electrical-or-firmware-general-dynamics-mission-systems-46334?utm_source=github&utm_medium=readme&utm_campaign=internships) | Annapolis Junction | No | 5d |
 | [Werner](https://swejoblists.com/company/werner?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Information Security Intern](https://swejoblists.com/jobs/information-security-intern-werner-46303?utm_source=github&utm_medium=readme&utm_campaign=internships) | Omaha | Unlikely | 5d |
@@ -1009,9 +1010,8 @@ Looking for new grad roles? See [TheoXiong7/2027-New-Grad-SWE-Jobs](https://gith
 | [Olsson](https://swejoblists.com/company/olsson?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Engineering Internship - Water/Wastewater](https://swejoblists.com/jobs/engineering-internship-water-wastewater-olsson-44064?utm_source=github&utm_medium=readme&utm_campaign=internships) | Denver, CO | Unlikely | Oct 16 |
 | [Olsson](https://swejoblists.com/company/olsson?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Engineering Internship - Water/Wastewater](https://swejoblists.com/jobs/engineering-internship-water-wastewater-olsson-44063?utm_source=github&utm_medium=readme&utm_campaign=internships) | Phoenix, AZ | Unlikely | Oct 16 |
 | [Olsson](https://swejoblists.com/company/olsson?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Engineering Internship - Water/Wastewater](https://swejoblists.com/jobs/engineering-internship-water-wastewater-olsson-44062?utm_source=github&utm_medium=readme&utm_campaign=internships) | Kearney, NE; Lincoln, NE; Omaha, NE | Unlikely | Oct 16 |
-| [Olsson](https://swejoblists.com/company/olsson?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Engineering Internship - Water Resources](https://swejoblists.com/jobs/engineering-internship-water-resources-olsson-44061?utm_source=github&utm_medium=readme&utm_campaign=internships) | Lincoln, NE | Unlikely | Oct 16 |
 
-Showing the first 1,000 of 3,032 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 3,032 on [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
+Showing the first 1,000 of 3,034 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 3,034 on [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
 
 ---
 
