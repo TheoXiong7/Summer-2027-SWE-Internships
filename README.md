@@ -1,15 +1,16 @@
 # Summer 2027 Software Engineering Internships
 
-Updated every 2 hours from [swejoblists.com](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships) (free, no account). Last update: 2026-10-25 04:17 UTC.
+Updated every 2 hours from [swejoblists.com](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships) (free, no account). Last update: 2026-10-25 11:08 UTC.
 
 Looking for new grad roles? See [TheoXiong7/2027-New-Grad-SWE-Jobs](https://github.com/TheoXiong7/2027-New-Grad-SWE-Jobs).
 
-**2,988 open roles** from **850 companies**, **566** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
+**2,984 open roles** from **850 companies**, **566** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
 
 **H-1B column**: Yes / Likely / Unlikely / No = how likely the employer sponsors an H-1B visa for the role; — = not labelled yet. A model reads each posting; it is a screen, not a guarantee.
 
 | Company | Role | Location | H-1B | Posted |
 |---|---|---|:---:|---|
+| [Experian](https://swejoblists.com/company/experian?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Software Engineering Intern](https://swejoblists.com/jobs/software-engineering-intern-experian-46875?utm_source=github&utm_medium=readme&utm_campaign=internships) | Cyberjaya, Selangor, Malaysia | Unlikely | 0d |
 | [FightCamp](https://swejoblists.com/company/fightcamp?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Developer Productivity Intern \[Winter 2027\]](https://swejoblists.com/jobs/developer-productivity-intern-winter-2027-fightcamp-46867?utm_source=github&utm_medium=readme&utm_campaign=internships) | San Jose, CA | Likely | 1d |
 | [Scout AI](https://swejoblists.com/company/scout-ai?utm_source=github&utm_medium=readme&utm_campaign=internships) | [AI Engineer Intern - Fury Team (Summer 2027)](https://swejoblists.com/jobs/ai-engineer-intern-fury-team-summer-2027-scout-ai-46870?utm_source=github&utm_medium=readme&utm_campaign=internships) | Sunnyvale | Unlikely | 2d |
 | [Sardine](https://swejoblists.com/company/sardine?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Summer Engineering Internship](https://swejoblists.com/jobs/summer-engineering-internship-sardine-46868?utm_source=github&utm_medium=readme&utm_campaign=internships) | North America | Unlikely | 2d |
@@ -1009,9 +1010,8 @@ Looking for new grad roles? See [TheoXiong7/2027-New-Grad-SWE-Jobs](https://gith
 | [Olsson](https://swejoblists.com/company/olsson?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Engineering Internship - Water/Wastewater](https://swejoblists.com/jobs/engineering-internship-water-wastewater-olsson-44065?utm_source=github&utm_medium=readme&utm_campaign=internships) | Fayetteville, AR | Unlikely | Oct 16 |
 | [Olsson](https://swejoblists.com/company/olsson?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Engineering Internship - Water/Wastewater](https://swejoblists.com/jobs/engineering-internship-water-wastewater-olsson-44064?utm_source=github&utm_medium=readme&utm_campaign=internships) | Denver, CO | Unlikely | Oct 16 |
 | [Olsson](https://swejoblists.com/company/olsson?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Engineering Internship - Water/Wastewater](https://swejoblists.com/jobs/engineering-internship-water-wastewater-olsson-44063?utm_source=github&utm_medium=readme&utm_campaign=internships) | Phoenix, AZ | Unlikely | Oct 16 |
-| [Olsson](https://swejoblists.com/company/olsson?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Engineering Internship - Water/Wastewater](https://swejoblists.com/jobs/engineering-internship-water-wastewater-olsson-44062?utm_source=github&utm_medium=readme&utm_campaign=internships) | Kearney, NE; Lincoln, NE; Omaha, NE | Unlikely | Oct 16 |
 
-Showing the first 1,000 of 2,988 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 2,988 on [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
+Showing the first 1,000 of 2,984 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 2,984 on [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
 
 ---
 
