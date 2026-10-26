@@ -1,15 +1,18 @@
 # Summer 2027 Software Engineering Internships
 
-Updated every 2 hours from [swejoblists.com](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships) (free, no account). Last update: 2026-10-26 04:21 UTC.
+Updated every 2 hours from [swejoblists.com](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships) (free, no account). Last update: 2026-10-26 12:42 UTC.
 
 Looking for new grad roles? See [TheoXiong7/2027-New-Grad-SWE-Jobs](https://github.com/TheoXiong7/2027-New-Grad-SWE-Jobs).
 
-**3,011 open roles** from **851 companies**, **603** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
+**3,013 open roles** from **851 companies**, **601** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
 
 **H-1B column**: Yes / Likely / Unlikely / No = how likely the employer sponsors an H-1B visa for the role; — = not labelled yet. A model reads each posting; it is a screen, not a guarantee.
 
 | Company | Role | Location | H-1B | Posted |
 |---|---|---|:---:|---|
+| [Skydio](https://swejoblists.com/company/skydio?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Autonomy Engineer Intern, 2027](https://swejoblists.com/jobs/autonomy-engineer-intern-2027-skydio-46957?utm_source=github&utm_medium=readme&utm_campaign=internships) | San Mateo, California, United States | Unlikely | 1d |
+| [Skydio](https://swejoblists.com/company/skydio?utm_source=github&utm_medium=readme&utm_campaign=internships) | [PhD Autonomy Engineer Intern, 2027](https://swejoblists.com/jobs/phd-autonomy-engineer-intern-2027-skydio-46956?utm_source=github&utm_medium=readme&utm_campaign=internships) | San Mateo, California, United States | Unlikely | 1d |
+| [Skydio](https://swejoblists.com/company/skydio?utm_source=github&utm_medium=readme&utm_campaign=internships) | [PhD Autonomy Engineer Intern - Deep Learning / Computer Vision, 2027](https://swejoblists.com/jobs/phd-autonomy-engineer-intern-deep-learning-computer-vision-2027-skydio-46955?utm_source=github&utm_medium=readme&utm_campaign=internships) | San Mateo, California, United States | Unlikely | 1d |
 | [Astrolab](https://swejoblists.com/company/astrolab?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Software Engineering Intern](https://swejoblists.com/jobs/software-engineering-intern-astrolab-46880?utm_source=github&utm_medium=readme&utm_campaign=internships) | Hawthorne | Unlikely | 1d |
 | [Hewlett Packard Enterprise](https://swejoblists.com/company/hewlett-packard-enterprise?utm_source=github&utm_medium=readme&utm_campaign=internships) | [AI/ML Developer Intern](https://swejoblists.com/jobs/ai-ml-developer-intern-hewlett-packard-enterprise-46951?utm_source=github&utm_medium=readme&utm_campaign=internships) | San Jose | Likely | 1d |
 | [Waymo](https://swejoblists.com/company/waymo?utm_source=github&utm_medium=readme&utm_campaign=internships) | [2027 Summer Intern - MS/PhD - Software Engineer - ML Frameworks and Efficiency](https://swejoblists.com/jobs/2027-summer-intern-ms-phd-software-engineer-ml-frameworks-and-efficiency-waymo-46885?utm_source=github&utm_medium=readme&utm_campaign=internships) | Mountain View | Likely | 2d |
@@ -1007,11 +1010,8 @@ Looking for new grad roles? See [TheoXiong7/2027-New-Grad-SWE-Jobs](https://gith
 | [Wade Trim](https://swejoblists.com/company/wade-trim?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Engineer Summer Intern - \#3045](https://swejoblists.com/jobs/engineer-summer-intern-3045-wade-trim-44125?utm_source=github&utm_medium=readme&utm_campaign=internships) | Taylor, MI | Unlikely | Oct 16 |
 | [Wade Trim](https://swejoblists.com/company/wade-trim?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Engineer Summer Intern - \#3036](https://swejoblists.com/jobs/engineer-summer-intern-3036-wade-trim-44124?utm_source=github&utm_medium=readme&utm_campaign=internships) | Bay City, MI | Unlikely | Oct 16 |
 | [Wade Trim](https://swejoblists.com/company/wade-trim?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Engineer Summer Intern - \#3035](https://swejoblists.com/jobs/engineer-summer-intern-3035-wade-trim-44123?utm_source=github&utm_medium=readme&utm_campaign=internships) | Atlanta, GA | Unlikely | Oct 16 |
-| [Wade Trim](https://swejoblists.com/company/wade-trim?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Engineer Summer Intern - \#3034](https://swejoblists.com/jobs/engineer-summer-intern-3034-wade-trim-44122?utm_source=github&utm_medium=readme&utm_campaign=internships) | Atlanta, GA | Unlikely | Oct 16 |
-| [Wade Trim](https://swejoblists.com/company/wade-trim?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Engineer Summer Intern - \#3033](https://swejoblists.com/jobs/engineer-summer-intern-3033-wade-trim-44121?utm_source=github&utm_medium=readme&utm_campaign=internships) | Traverse City, MI | Unlikely | Oct 16 |
-| [Wade Trim](https://swejoblists.com/company/wade-trim?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Engineer Summer Intern - \#3033](https://swejoblists.com/jobs/engineer-summer-intern-3033-wade-trim-44120?utm_source=github&utm_medium=readme&utm_campaign=internships) | Tampa, FL | Unlikely | Oct 16 |
 
-Showing the first 1,000 of 3,011 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 3,011 on [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
+Showing the first 1,000 of 3,013 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 3,013 on [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
 
 ---
 
