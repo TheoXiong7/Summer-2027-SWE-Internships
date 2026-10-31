@@ -1,15 +1,17 @@
 # Summer 2027 Software Engineering Internships
 
-Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships) (free, no account). Last update: 2026-10-31 12:03 UTC.
+Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships) (free, no account). Last update: 2026-10-31 17:12 UTC.
 
 Looking for new grad roles? See [TheoXiong7/2027-New-Grad-SWE-Jobs](https://github.com/TheoXiong7/2027-New-Grad-SWE-Jobs).
 
-**3,374 open roles** from **930 companies**, **713** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
+**3,378 open roles** from **933 companies**, **715** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
 
 **H-1B column**: Yes / Likely / Unlikely / No = how likely the employer sponsors an H-1B visa for the role; — = not labelled yet. A model reads each posting; it is a screen, not a guarantee.
 
 | Company | Role | Location | H-1B | Posted |
 |---|---|---|:---:|---|
+| [Firework](https://swejoblists.com/company/firework?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Data Engineer Intern](https://swejoblists.com/jobs/data-engineer-intern-firework-48068?utm_source=github&utm_medium=readme&utm_campaign=internships) | San Mateo, California | Likely | 0d |
+| [Commonwealth Fusion Systems](https://swejoblists.com/company/commonwealth-fusion-systems?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Intern - R&D Test Engineer - Spring or Summer 2027](https://swejoblists.com/jobs/intern-r-d-test-engineer-spring-or-summer-2027-commonwealth-fusion-systems-48071?utm_source=github&utm_medium=readme&utm_campaign=internships) | Devens, MA & Somerville, MA | Unlikely | 1d |
 | [Stand Together](https://swejoblists.com/company/stand-together?utm_source=github&utm_medium=readme&utm_campaign=internships) | [KIP Spring 2027 - Development Intern - Grassroot Institute of Hawaii](https://swejoblists.com/jobs/kip-spring-2027-development-intern-grassroot-institute-of-hawaii-stand-together-48055?utm_source=github&utm_medium=readme&utm_campaign=internships) | Honolulu, Hawaii | Unlikely | 1d |
 | [Northrop Grumman](https://swejoblists.com/company/northrop-grumman?utm_source=github&utm_medium=readme&utm_campaign=internships) | [2027 Intern Product Support – Data Scientist](https://swejoblists.com/jobs/2027-intern-product-support-data-scientist-northrop-grumman-48051?utm_source=github&utm_medium=readme&utm_campaign=internships) | United States-California-San Diego | No | 1d |
 | [Hewlett Packard Enterprise](https://swejoblists.com/company/hewlett-packard-enterprise?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Software Engineering Intern](https://swejoblists.com/jobs/software-engineering-intern-hewlett-packard-enterprise-48050?utm_source=github&utm_medium=readme&utm_campaign=internships) | Sunnyvale, California, United States | Likely | 1d |
@@ -1008,10 +1010,8 @@ Looking for new grad roles? See [TheoXiong7/2027-New-Grad-SWE-Jobs](https://gith
 | [Wavestone](https://swejoblists.com/company/wavestone?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Stage – Business Developer Grand Compte – Luxe / Retail / Services](https://swejoblists.com/jobs/stage-business-developer-grand-compte-luxe-retail-services-wavestone-46009?utm_source=github&utm_medium=readme&utm_campaign=internships) | Puteaux, IDF, France | Unlikely | Oct 20 |
 | [Verizon Communications](https://swejoblists.com/company/verizon-communications?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Call Routing Optimization Engineer Intern](https://swejoblists.com/jobs/call-routing-optimization-engineer-intern-verizon-communications-46006?utm_source=github&utm_medium=readme&utm_campaign=internships) | Basking Ridge | No | Oct 20 |
 | [Parallel Wireless](https://swejoblists.com/company/parallel-wireless?utm_source=github&utm_medium=readme&utm_campaign=internships) | [PHY Software Engineer Intern](https://swejoblists.com/jobs/phy-software-engineer-intern-parallel-wireless-46005?utm_source=github&utm_medium=readme&utm_campaign=internships) | Bristol | Unlikely | Oct 20 |
-| [Verizon Communications](https://swejoblists.com/company/verizon-communications?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Verizon Consumer Group: Data Science Summer 2027 Internship](https://swejoblists.com/jobs/verizon-consumer-group-data-science-summer-2027-internship-verizon-communications-46004?utm_source=github&utm_medium=readme&utm_campaign=internships) | Basking Ridge | No | Oct 20 |
-| [Verizon Communications](https://swejoblists.com/company/verizon-communications?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Basking Ridge, NJ: VTeamer for a Day: Verizon Consumer Group: Data Science Summer 2027 Internship](https://swejoblists.com/jobs/basking-ridge-nj-vteamer-for-a-day-verizon-consumer-group-data-science-summer-verizon-communications-46003?utm_source=github&utm_medium=readme&utm_campaign=internships) | Basking Ridge | No | Oct 20 |
 
-Showing the first 1,000 of 3,374 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 3,374 on [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
+Showing the first 1,000 of 3,378 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 3,378 on [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
 
 ---
 
