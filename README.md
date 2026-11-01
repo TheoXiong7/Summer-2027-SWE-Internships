@@ -1,6 +1,6 @@
 # Summer 2027 Software Engineering Internships
 
-Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships) (free, no account). Last update: 2026-11-01 08:59 UTC.
+Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships) (free, no account). Last update: 2026-11-01 16:42 UTC.
 
 Looking for new grad roles? See [TheoXiong7/2027-New-Grad-SWE-Jobs](https://github.com/TheoXiong7/2027-New-Grad-SWE-Jobs).
 
