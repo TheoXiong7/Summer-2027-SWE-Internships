@@ -1,10 +1,10 @@
 # Summer 2027 Software Engineering Internships
 
-Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships) (free, no account). Last update: 2026-11-01 00:53 UTC.
+Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships) (free, no account). Last update: 2026-11-01 08:59 UTC.
 
 Looking for new grad roles? See [TheoXiong7/2027-New-Grad-SWE-Jobs](https://github.com/TheoXiong7/2027-New-Grad-SWE-Jobs).
 
-**3,339 open roles** from **925 companies**, **723** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
+**3,338 open roles** from **925 companies**, **722** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
 
 **H-1B column**: Yes / Likely / Unlikely / No = how likely the employer sponsors an H-1B visa for the role; — = not labelled yet. A model reads each posting; it is a screen, not a guarantee.
 
@@ -1011,7 +1011,7 @@ Looking for new grad roles? See [TheoXiong7/2027-New-Grad-SWE-Jobs](https://gith
 | [Inversion Space](https://swejoblists.com/company/inversion-space?utm_source=github&utm_medium=readme&utm_campaign=internships) | [AI & Internal Tools Software Engineer - Summer Internship 2027](https://swejoblists.com/jobs/ai-internal-tools-software-engineer-summer-internship-2027-inversion-space-46023?utm_source=github&utm_medium=readme&utm_campaign=internships) | Vista | No | Oct 20 |
 | [Impulse Space](https://swejoblists.com/company/impulse-space?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Enterprise Software Engineering Intern - Summer 2027](https://swejoblists.com/jobs/enterprise-software-engineering-intern-summer-2027-impulse-space-46022?utm_source=github&utm_medium=readme&utm_campaign=internships) | Redondo Beach | No | Oct 20 |
 
-Showing the first 1,000 of 3,339 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 3,339 on [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
+Showing the first 1,000 of 3,338 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 3,338 on [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
 
 ---
 
