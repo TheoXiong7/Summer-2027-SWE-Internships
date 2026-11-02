@@ -1,15 +1,18 @@
 # Summer 2027 Software Engineering Internships
 
-Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships) (free, no account). Last update: 2026-11-02 01:25 UTC.
+Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships) (free, no account). Last update: 2026-11-02 09:15 UTC.
 
 Looking for new grad roles? See [TheoXiong7/2027-New-Grad-SWE-Jobs](https://github.com/TheoXiong7/2027-New-Grad-SWE-Jobs).
 
-**3,335 open roles** from **923 companies**, **688** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
+**3,336 open roles** from **923 companies**, **690** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
 
 **H-1B column**: Yes / Likely / Unlikely / No = how likely the employer sponsors an H-1B visa for the role; — = not labelled yet. A model reads each posting; it is a screen, not a guarantee.
 
 | Company | Role | Location | H-1B | Posted |
 |---|---|---|:---:|---|
+| [Roku](https://swejoblists.com/company/roku?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Software Engineer Intern - AI Engineering](https://swejoblists.com/jobs/software-engineer-intern-ai-engineering-roku-48133?utm_source=github&utm_medium=readme&utm_campaign=internships) | San Jose | Unlikely | 0d |
+| [Roku](https://swejoblists.com/company/roku?utm_source=github&utm_medium=readme&utm_campaign=internships) | [SW Engineer Intern, AI Engineering](https://swejoblists.com/jobs/sw-engineer-intern-ai-engineering-roku-48131?utm_source=github&utm_medium=readme&utm_campaign=internships) | San Jose, California | Unlikely | 0d |
+| [SOCOTEC Global](https://swejoblists.com/company/socotec-global?utm_source=github&utm_medium=readme&utm_campaign=internships) | [CFD Engineer Intern](https://swejoblists.com/jobs/cfd-engineer-intern-socotec-global-48129?utm_source=github&utm_medium=readme&utm_campaign=internships) | Cầu Giấy, Hà Nội, Vietnam | Unlikely | 0d |
 | [KnowBe4](https://swejoblists.com/company/knowbe4?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Software Engineer Intern](https://swejoblists.com/jobs/software-engineer-intern-knowbe4-48128?utm_source=github&utm_medium=readme&utm_campaign=internships) | Clearwater | Likely | 1d |
 | [KnowBe4](https://swejoblists.com/company/knowbe4?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Software Engineer Summer Internship](https://swejoblists.com/jobs/software-engineer-summer-internship-knowbe4-48127?utm_source=github&utm_medium=readme&utm_campaign=internships) | Clearwater, Florida | Likely | 1d |
 | [General Dynamics Mission Systems](https://swejoblists.com/company/general-dynamics-mission-systems?utm_source=github&utm_medium=readme&utm_campaign=internships) | [DevOps Engineer Intern](https://swejoblists.com/jobs/devops-engineer-intern-general-dynamics-mission-systems-48120?utm_source=github&utm_medium=readme&utm_campaign=internships) | Pittsburgh | No | 2d |
@@ -1007,11 +1010,8 @@ Looking for new grad roles? See [TheoXiong7/2027-New-Grad-SWE-Jobs](https://gith
 | [Graphcore](https://swejoblists.com/company/graphcore?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Cloud Platform Summer Intern 2027](https://swejoblists.com/jobs/cloud-platform-summer-intern-2027-graphcore-46146?utm_source=github&utm_medium=readme&utm_campaign=internships) | Bristol, UK | No | Oct 20 |
 | [Graphcore](https://swejoblists.com/company/graphcore?utm_source=github&utm_medium=readme&utm_campaign=internships) | [AI Technology PhD Research Internship](https://swejoblists.com/jobs/ai-technology-phd-research-internship-graphcore-46145?utm_source=github&utm_medium=readme&utm_campaign=internships) | Bristol, UK; Cambridge, UK; London, UK | No | Oct 20 |
 | [FSH Technologies](https://swejoblists.com/company/fsh-technologies?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Engineer - Intern](https://swejoblists.com/jobs/engineer-intern-fsh-technologies-46141?utm_source=github&utm_medium=readme&utm_campaign=internships) | Philadelphia | Unlikely | Oct 20 |
-| [Patreon](https://swejoblists.com/company/patreon?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Software Engineering Intern - Summer 2027](https://swejoblists.com/jobs/software-engineering-intern-summer-2027-patreon-46029?utm_source=github&utm_medium=readme&utm_campaign=internships) | San Francisco | Likely | Oct 20 |
-| [Patreon](https://swejoblists.com/company/patreon?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Software Engineering Intern - Summer 2027](https://swejoblists.com/jobs/software-engineering-intern-summer-2027-patreon-46028?utm_source=github&utm_medium=readme&utm_campaign=internships) | New York City | Likely | Oct 20 |
-| [Palantir](https://swejoblists.com/company/palantir?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Software Engineer - Internship - Query Engines](https://swejoblists.com/jobs/software-engineer-internship-query-engines-palantir-46027?utm_source=github&utm_medium=readme&utm_campaign=internships) | New York City | Likely | Oct 20 |
 
-Showing the first 1,000 of 3,335 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 3,335 on [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
+Showing the first 1,000 of 3,336 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 3,336 on [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
 
 ---
 
