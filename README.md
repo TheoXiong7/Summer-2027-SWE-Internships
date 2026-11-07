@@ -1,16 +1,20 @@
 # Summer 2027 Software Engineering Internships
 
-Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships) (free, no account). Last update: 2026-11-07 08:37 UTC.
+Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships) (free, no account). Last update: 2026-11-07 16:15 UTC.
 
 Looking for new grad roles? See [TheoXiong7/2027-New-Grad-SWE-Jobs](https://github.com/TheoXiong7/2027-New-Grad-SWE-Jobs).
 
-**3,495 open roles** from **933 companies**, **574** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
+**3,499 open roles** from **936 companies**, **574** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
 
 **H-1B column**: Yes / Likely / Unlikely / No = how likely the employer sponsors an H-1B visa for the role; — = not labelled yet. A model reads each posting; it is a screen, not a guarantee.
 
 | Company | Role | Location | H-1B | Posted |
 |---|---|---|:---:|---|
 | [Category Labs](https://swejoblists.com/company/category-labs?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Research Intern](https://swejoblists.com/jobs/research-intern-category-labs-49018?utm_source=github&utm_medium=readme&utm_campaign=internships) | NYC | Yes | 0d |
+| [Hootsuite](https://swejoblists.com/company/hootsuite?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Co-op/Intern, Software Development - Winter 2027](https://swejoblists.com/jobs/co-op-intern-software-development-winter-2027-hootsuite-49023?utm_source=github&utm_medium=readme&utm_campaign=internships) | Vancouver, BC, Toronto, ON | Unlikely | 1d |
+| [Hootsuite](https://swejoblists.com/company/hootsuite?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Co-op/Intern, DevOps - Winter 2027](https://swejoblists.com/jobs/co-op-intern-devops-winter-2027-hootsuite-49022?utm_source=github&utm_medium=readme&utm_campaign=internships) | Alberta, British Columbia | Unlikely | 1d |
+| [Helical](https://swejoblists.com/company/helical?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Machine Learning Intern](https://swejoblists.com/jobs/machine-learning-intern-helical-49021?utm_source=github&utm_medium=readme&utm_campaign=internships) | London, England, United Kingdom | Unlikely | 1d |
+| [Machina Cognita Technologies](https://swejoblists.com/company/machina-cognita-technologies?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Engineering Intern](https://swejoblists.com/jobs/engineering-intern-machina-cognita-technologies-49020?utm_source=github&utm_medium=readme&utm_campaign=internships) | Lafayette | Unlikely | 1d |
 | [TikTok](https://swejoblists.com/company/tiktok?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Software Engineer Intern 🎓](https://swejoblists.com/jobs/software-engineer-intern-tiktok-49014?utm_source=github&utm_medium=readme&utm_campaign=internships) | San Jose | Likely | 0d |
 | [Zoox](https://swejoblists.com/company/zoox?utm_source=github&utm_medium=readme&utm_campaign=internships) | [AI Workflows & Safety Decision Making Intern \[2027\]](https://swejoblists.com/jobs/ai-workflows-safety-decision-making-intern-2027-zoox-49012?utm_source=github&utm_medium=readme&utm_campaign=internships) | Foster City, CA | Likely | 0d |
 | [Shield AI](https://swejoblists.com/company/shield-ai?utm_source=github&utm_medium=readme&utm_campaign=internships) | [2027 Summer Intern - Supplier Development Engineer - 6463](https://swejoblists.com/jobs/2027-summer-intern-supplier-development-engineer-6463-shield-ai-49011?utm_source=github&utm_medium=readme&utm_campaign=internships) | Dallas, Texas | Unlikely | 0d |
@@ -1006,12 +1010,8 @@ Looking for new grad roles? See [TheoXiong7/2027-New-Grad-SWE-Jobs](https://gith
 | [Booz Allen](https://swejoblists.com/company/booz-allen?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Software Developer Intern](https://swejoblists.com/jobs/software-developer-intern-booz-allen-47062?utm_source=github&utm_medium=readme&utm_campaign=internships) | Albuquerque | No | Oct 26 |
 | [Booz Allen](https://swejoblists.com/company/booz-allen?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Systems Engineer Intern - Summer Games](https://swejoblists.com/jobs/systems-engineer-intern-summer-games-booz-allen-47061?utm_source=github&utm_medium=readme&utm_campaign=internships) | Detroit | No | Oct 26 |
 | [Booz Allen](https://swejoblists.com/company/booz-allen?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Systems Engineer Intern](https://swejoblists.com/jobs/systems-engineer-intern-booz-allen-47060?utm_source=github&utm_medium=readme&utm_campaign=internships) | Dayton | No | Oct 26 |
-| [Booz Allen](https://swejoblists.com/company/booz-allen?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Summer Games Systems Engineer Intern](https://swejoblists.com/jobs/summer-games-systems-engineer-intern-booz-allen-47059?utm_source=github&utm_medium=readme&utm_campaign=internships) | Lexington | No | Oct 26 |
-| [Booz Allen](https://swejoblists.com/company/booz-allen?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Summer Games Software Developer Intern](https://swejoblists.com/jobs/summer-games-software-developer-intern-booz-allen-47058?utm_source=github&utm_medium=readme&utm_campaign=internships) | Detroit | No | Oct 26 |
-| [Booz Allen](https://swejoblists.com/company/booz-allen?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Software Developer Intern](https://swejoblists.com/jobs/software-developer-intern-booz-allen-47057?utm_source=github&utm_medium=readme&utm_campaign=internships) | Lexington | No | Oct 26 |
-| [Cohesity](https://swejoblists.com/company/cohesity?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Software Engineer Intern](https://swejoblists.com/jobs/software-engineer-intern-cohesity-47056?utm_source=github&utm_medium=readme&utm_campaign=internships) | Santa Clara | Likely | Oct 26 |
 
-Showing the first 1,000 of 3,495 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 3,495 on [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
+Showing the first 1,000 of 3,499 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 3,499 on [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
 
 ---
 
