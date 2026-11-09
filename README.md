@@ -1,15 +1,17 @@
 # Summer 2027 Software Engineering Internships
 
-Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships) (free, no account). Last update: 2026-11-09 01:35 UTC.
+Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships) (free, no account). Last update: 2026-11-09 09:33 UTC.
 
 Looking for new grad roles? See [TheoXiong7/2027-New-Grad-SWE-Jobs](https://github.com/TheoXiong7/2027-New-Grad-SWE-Jobs).
 
-**3,470 open roles** from **926 companies**, **580** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
+**3,469 open roles** from **924 companies**, **579** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
 
 **H-1B column**: Yes / Likely / Unlikely / No = how likely the employer sponsors an H-1B visa for the role; — = not labelled yet. A model reads each posting; it is a screen, not a guarantee.
 
 | Company | Role | Location | H-1B | Posted |
 |---|---|---|:---:|---|
+| [Renesas Electronics](https://swejoblists.com/company/renesas-electronics?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Robotic AI Intern](https://swejoblists.com/jobs/robotic-ai-intern-renesas-electronics-49077?utm_source=github&utm_medium=readme&utm_campaign=internships) | Beijing, , China | Unlikely | 0d |
+| [Renesas Electronics](https://swejoblists.com/company/renesas-electronics?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Robotic AI Intern](https://swejoblists.com/jobs/robotic-ai-intern-renesas-electronics-49076?utm_source=github&utm_medium=readme&utm_campaign=internships) | Shenzhen, , China | Unlikely | 0d |
 | [Varda](https://swejoblists.com/company/varda?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Site Reliability Internship - Summer 2027](https://swejoblists.com/jobs/site-reliability-internship-summer-2027-varda-49036?utm_source=github&utm_medium=readme&utm_campaign=internships) | El Segundo | No | 2d |
 | [The New York Times](https://swejoblists.com/company/the-new-york-times?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Backend Engineering Intern](https://swejoblists.com/jobs/backend-engineering-intern-the-new-york-times-49035?utm_source=github&utm_medium=readme&utm_campaign=internships) | New York City | Likely | 2d |
 | [The New York Times](https://swejoblists.com/company/the-new-york-times?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Frontend Engineering Intern](https://swejoblists.com/jobs/frontend-engineering-intern-the-new-york-times-49034?utm_source=github&utm_medium=readme&utm_campaign=internships) | New York City | Unlikely | 2d |
@@ -1008,10 +1010,8 @@ Looking for new grad roles? See [TheoXiong7/2027-New-Grad-SWE-Jobs](https://gith
 | [Northrop Grumman](https://swejoblists.com/company/northrop-grumman?utm_source=github&utm_medium=readme&utm_campaign=internships) | [2027 Software Engineering Intern - Beavercreek OH](https://swejoblists.com/jobs/2027-software-engineering-intern-beavercreek-oh-northrop-grumman-47162?utm_source=github&utm_medium=readme&utm_campaign=internships) | Beavercreek | No | Oct 26 |
 | [Manhattan Associates](https://swejoblists.com/company/manhattan-associates?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Cloud Intern](https://swejoblists.com/jobs/cloud-intern-manhattan-associates-47161?utm_source=github&utm_medium=readme&utm_campaign=internships) | Atlanta | Likely | Oct 26 |
 | [ICF](https://swejoblists.com/company/icf?utm_source=github&utm_medium=readme&utm_campaign=internships) | [2027 Summer Intern - Software Developer - Reston - VA](https://swejoblists.com/jobs/2027-summer-intern-software-developer-reston-va-icf-47160?utm_source=github&utm_medium=readme&utm_campaign=internships) | Reston | No | Oct 26 |
-| [Highmark Health](https://swejoblists.com/company/highmark-health?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Summer 2027 Software Engineer enGen Undergraduate Intern](https://swejoblists.com/jobs/summer-2027-software-engineer-engen-undergraduate-intern-highmark-health-47159?utm_source=github&utm_medium=readme&utm_campaign=internships) | Pennsylvania | No | Oct 26 |
-| [Highmark Health](https://swejoblists.com/company/highmark-health?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Summer 2027 Provider Delivery Software Engineer enGen Undergraduate Intern](https://swejoblists.com/jobs/summer-2027-provider-delivery-software-engineer-engen-undergraduate-intern-highmark-health-47158?utm_source=github&utm_medium=readme&utm_campaign=internships) | Remote - Pennsylvania | No | Oct 26 |
 
-Showing the first 1,000 of 3,470 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 3,470 on [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
+Showing the first 1,000 of 3,469 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 3,469 on [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
 
 ---
 
