@@ -1,15 +1,17 @@
 # Summer 2027 Software Engineering Internships
 
-Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships) (free, no account). Last update: 2026-11-10 04:01 UTC.
+Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships) (free, no account). Last update: 2026-11-10 12:25 UTC.
 
 Looking for new grad roles? See [TheoXiong7/2027-New-Grad-SWE-Jobs](https://github.com/TheoXiong7/2027-New-Grad-SWE-Jobs).
 
-**3,585 open roles** from **938 companies**, **598** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
+**3,521 open roles** from **930 companies**, **589** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
 
 **H-1B column**: Yes / Likely / Unlikely / No = how likely the employer sponsors an H-1B visa for the role; — = not labelled yet. A model reads each posting; it is a screen, not a guarantee.
 
 | Company | Role | Location | H-1B | Posted |
 |---|---|---|:---:|---|
+| [Celonis](https://swejoblists.com/company/celonis?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Summernaut Program - AI & Management Consulting (Value Engineering) Summer Intern](https://swejoblists.com/jobs/summernaut-program-ai-management-consulting-value-engineering-summer-intern-celonis-49260?utm_source=github&utm_medium=readme&utm_campaign=internships) | Raleigh, US, North Carolina | No | 0d |
+| [Trilogy Health Services](https://swejoblists.com/company/trilogy-health-services?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Information Systems Developer of AI and Automated Solutions Intern](https://swejoblists.com/jobs/information-systems-developer-of-ai-and-automated-solutions-intern-trilogy-health-services-49258?utm_source=github&utm_medium=readme&utm_campaign=internships) | Louisville | Unlikely | 0d |
 | [REGENT](https://swejoblists.com/company/regent?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Mission Software Engineering Intern 🎓](https://swejoblists.com/jobs/mission-software-engineering-intern-regent-49244?utm_source=github&utm_medium=readme&utm_campaign=internships) | North Kingstown | Unlikely | 0d |
 | [REGENT](https://swejoblists.com/company/regent?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Systems Engineering Intern - Safety Analysis (Summer)](https://swejoblists.com/jobs/systems-engineering-intern-safety-analysis-summer-regent-49242?utm_source=github&utm_medium=readme&utm_campaign=internships) | North Kingstown, Rhode Island, USA | Unlikely | 0d |
 | [REGENT](https://swejoblists.com/company/regent?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Mission Software Engineering Intern (Summer)](https://swejoblists.com/jobs/mission-software-engineering-intern-summer-regent-49241?utm_source=github&utm_medium=readme&utm_campaign=internships) | North Kingstown, Rhode Island, USA | Unlikely | 0d |
@@ -1008,10 +1010,8 @@ Looking for new grad roles? See [TheoXiong7/2027-New-Grad-SWE-Jobs](https://gith
 | [Great American Insurance Group](https://swejoblists.com/company/great-american-insurance-group?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Claims Lab Developer Intern - Summer 2027](https://swejoblists.com/jobs/claims-lab-developer-intern-summer-2027-great-american-insurance-group-47425?utm_source=github&utm_medium=readme&utm_campaign=internships) | Cincinnati | Unlikely | Oct 27 |
 | [Great American Insurance Group](https://swejoblists.com/company/great-american-insurance-group?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Cloud Data Platform Intern - Summer 2027](https://swejoblists.com/jobs/cloud-data-platform-intern-summer-2027-great-american-insurance-group-47424?utm_source=github&utm_medium=readme&utm_campaign=internships) | Cincinnati | Unlikely | Oct 27 |
 | [General Dynamics Mission Systems](https://swejoblists.com/company/general-dynamics-mission-systems?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Software Engineer - Intern](https://swejoblists.com/jobs/software-engineer-intern-general-dynamics-mission-systems-47423?utm_source=github&utm_medium=readme&utm_campaign=internships) | Scottsdale | No | Oct 27 |
-| [Commonwealth Fusion Systems](https://swejoblists.com/company/commonwealth-fusion-systems?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Intern - Scientific Software Engineer - Summer 2027](https://swejoblists.com/jobs/intern-scientific-software-engineer-summer-2027-commonwealth-fusion-systems-47422?utm_source=github&utm_medium=readme&utm_campaign=internships) | Devens | Unlikely | Oct 27 |
-| [Chatham Financial](https://swejoblists.com/company/chatham-financial?utm_source=github&utm_medium=readme&utm_campaign=internships) | [2027 Software Engineering Intern](https://swejoblists.com/jobs/2027-software-engineering-intern-chatham-financial-47421?utm_source=github&utm_medium=readme&utm_campaign=internships) | Denver | Likely | Oct 27 |
 
-Showing the first 1,000 of 3,585 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 3,585 on [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
+Showing the first 1,000 of 3,521 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 3,521 on [swejoblists.com/internships](https://swejoblists.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships).
 
 ---
 
