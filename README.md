@@ -1,17 +1,20 @@
 # Summer 2027 Software Engineering Internships
 
-Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/?type=internship&utm_source=github&utm_medium=readme&utm_campaign=internships) (free, no account). Last update: 2026-11-14 11:20 UTC.
+Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/?type=internship&utm_source=github&utm_medium=readme&utm_campaign=internships) (free, no account). Last update: 2026-11-14 17:52 UTC.
 
 This list shows only the roles labelled H-1B 🟢 Yes or 🟡 Likely. Every open role, whatever its label, is in [ALL_ROLES.md](ALL_ROLES.md).
 
 Looking for new grad roles? See [TheoXiong7/2027-New-Grad-SWE-Jobs](https://github.com/TheoXiong7/2027-New-Grad-SWE-Jobs).
 
-**Showing 585 of 2,374 open roles**: the ones labelled H-1B 🟢 Yes or 🟡 Likely, from **185 companies**, **130** added in the last 7 days. The other 1,789 (🟠 Unlikely, 🔴 No or not labelled yet) are in [ALL_ROLES.md](ALL_ROLES.md). Filters, company pages and match scores: [swejoblists.com/?type=internship](https://swejoblists.com/?type=internship&utm_source=github&utm_medium=readme&utm_campaign=internships).
+**Showing 588 of 2,381 open roles**: the ones labelled H-1B 🟢 Yes or 🟡 Likely, from **186 companies**, **133** added in the last 7 days. The other 1,793 (🟠 Unlikely, 🔴 No or not labelled yet) are in [ALL_ROLES.md](ALL_ROLES.md). Filters, company pages and match scores: [swejoblists.com/?type=internship](https://swejoblists.com/?type=internship&utm_source=github&utm_medium=readme&utm_campaign=internships).
 
 **H-1B column**: 🟢 Yes / 🟡 Likely = how likely the employer sponsors an H-1B visa for the role. A model reads each posting; it is a screen, not a guarantee.
 
 | Company | Role | Location | H-1B | Posted |
 |---|---|---|:---:|---|
+| [Amazon](https://swejoblists.com/company/amazon?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Data Center Infrastructure Engineer Intern, Summer 2027 - East](https://swejoblists.com/jobs/data-center-infrastructure-engineer-intern-summer-2027-east-amazon-49997?utm_source=github&utm_medium=readme&utm_campaign=internships) | Herndon, Virginia, United States | 🟡 Likely | 0d |
+| [Amazon](https://swejoblists.com/company/amazon?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Data Center Infrastructure Engineer Intern, Summer 2027 - West Coast](https://swejoblists.com/jobs/data-center-infrastructure-engineer-intern-summer-2027-west-coast-amazon-49996?utm_source=github&utm_medium=readme&utm_campaign=internships) | Umatilla, Oregon, United States | 🟡 Likely | 0d |
+| [Nexus Cognitive Technologies](https://swejoblists.com/company/nexus-cognitive-technologies?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Data Engineering Intern](https://swejoblists.com/jobs/data-engineering-intern-nexus-cognitive-technologies-49989?utm_source=github&utm_medium=readme&utm_campaign=internships) | Atlanta HQ | 🟡 Likely | 1d |
 | [ASML](https://swejoblists.com/company/asml?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Internship - EUV Data Science and Analytics](https://swejoblists.com/jobs/internship-euv-data-science-and-analytics-asml-49961?utm_source=github&utm_medium=readme&utm_campaign=internships) | Austin, TX, United States | 🟡 Likely | 1d |
 | [Solidigm](https://swejoblists.com/company/solidigm?utm_source=github&utm_medium=readme&utm_campaign=internships) | [NAND Development Business Operations Intern](https://swejoblists.com/jobs/nand-development-business-operations-intern-solidigm-49959?utm_source=github&utm_medium=readme&utm_campaign=internships) | Rancho Cordova, CA, United States | 🟡 Likely | 1d |
 | [Samsung Semiconductor](https://swejoblists.com/company/samsung-semiconductor?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Intern, SSD Firmware Development](https://swejoblists.com/jobs/intern-ssd-firmware-development-samsung-semiconductor-49950?utm_source=github&utm_medium=readme&utm_campaign=internships) | San Jose, California, United States | 🟡 Likely | 1d |
