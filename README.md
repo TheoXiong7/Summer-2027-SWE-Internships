@@ -1,12 +1,12 @@
 # Summer 2027 Software Engineering Internships
 
-Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/?type=internship&utm_source=github&utm_medium=readme&utm_campaign=internships) (free, no account). Last update: 2026-11-15 13:47 UTC.
+Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/?type=internship&utm_source=github&utm_medium=readme&utm_campaign=internships) (free, no account). Last update: 2026-11-15 19:40 UTC.
 
 This list shows only the roles labelled H-1B 🟢 Yes or 🟡 Likely. Every open role, whatever its label, is in [ALL_ROLES.md](ALL_ROLES.md).
 
 Looking for new grad roles? See [TheoXiong7/2027-New-Grad-SWE-Jobs](https://github.com/TheoXiong7/2027-New-Grad-SWE-Jobs).
 
-**Showing 575 of 2,275 open roles**: the ones labelled H-1B 🟢 Yes or 🟡 Likely, from **185 companies**, **136** added in the last 7 days. The other 1,700 (🟠 Unlikely, 🔴 No or not labelled yet) are in [ALL_ROLES.md](ALL_ROLES.md). Filters, company pages and match scores: [swejoblists.com/?type=internship](https://swejoblists.com/?type=internship&utm_source=github&utm_medium=readme&utm_campaign=internships).
+**Showing 575 of 2,276 open roles**: the ones labelled H-1B 🟢 Yes or 🟡 Likely, from **185 companies**, **119** added in the last 7 days. The other 1,701 (🟠 Unlikely, 🔴 No or not labelled yet) are in [ALL_ROLES.md](ALL_ROLES.md). Filters, company pages and match scores: [swejoblists.com/?type=internship](https://swejoblists.com/?type=internship&utm_source=github&utm_medium=readme&utm_campaign=internships).
 
 **H-1B column**: 🟢 Yes / 🟡 Likely = how likely the employer sponsors an H-1B visa for the role. A model reads each posting; it is a screen, not a guarantee.
 

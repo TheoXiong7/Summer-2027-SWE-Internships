@@ -1,12 +1,12 @@
 # Summer 2027 Software Engineering Internships: All Roles
 
-Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/?type=internship&utm_source=github&utm_medium=readme&utm_campaign=internships) (free, no account). Last update: 2026-11-15 13:47 UTC.
+Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/?type=internship&utm_source=github&utm_medium=readme&utm_campaign=internships) (free, no account). Last update: 2026-11-15 19:40 UTC.
 
 This file lists every open role, whatever its H-1B label. The [README](README.md) shows only the roles labelled H-1B 🟢 Yes or 🟡 Likely.
 
 Looking for new grad roles? See [TheoXiong7/2027-New-Grad-SWE-Jobs](https://github.com/TheoXiong7/2027-New-Grad-SWE-Jobs).
 
-**2,275 open roles** from **658 companies**, **515** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/?type=internship](https://swejoblists.com/?type=internship&utm_source=github&utm_medium=readme&utm_campaign=internships).
+**2,276 open roles** from **658 companies**, **493** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/?type=internship](https://swejoblists.com/?type=internship&utm_source=github&utm_medium=readme&utm_campaign=internships).
 
 **H-1B column**: 🟢 Yes / 🟡 Likely / 🟠 Unlikely / 🔴 No = how likely the employer sponsors an H-1B visa for the role; — = not labelled yet. A model reads each posting; it is a screen, not a guarantee.
 
@@ -988,6 +988,7 @@ Looking for new grad roles? See [TheoXiong7/2027-New-Grad-SWE-Jobs](https://gith
 | [Nintendo](https://swejoblists.com/company/nintendo?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Intern - Software Engineer - Performance Tools - NTD](https://swejoblists.com/jobs/intern-software-engineer-performance-tools-ntd-nintendo-48078?utm_source=github&utm_medium=readme&utm_campaign=internships) | Redmond | 🔴 No | Oct 31 |
 | [Nintendo](https://swejoblists.com/company/nintendo?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Intern - Software Engineer - Graphics - NTD](https://swejoblists.com/jobs/intern-software-engineer-graphics-ntd-nintendo-48077?utm_source=github&utm_medium=readme&utm_campaign=internships) | Redmond | 🔴 No | Oct 31 |
 | [Firework](https://swejoblists.com/company/firework?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Data Engineer Intern](https://swejoblists.com/jobs/data-engineer-intern-firework-48068?utm_source=github&utm_medium=readme&utm_campaign=internships) | San Mateo, California | 🟡 Likely | Oct 31 |
+| [Carnegie Mellon University](https://swejoblists.com/company/carnegie-mellon-university?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Enabling Mission Capability at Scale Intern](https://swejoblists.com/jobs/enabling-mission-capability-at-scale-intern-carnegie-mellon-university-50046?utm_source=github&utm_medium=readme&utm_campaign=internships) | Pittsburgh | 🔴 No | Oct 30 |
 | [Carnegie Mellon University](https://swejoblists.com/company/carnegie-mellon-university?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Enabling Mission Capability at Scale Intern](https://swejoblists.com/jobs/enabling-mission-capability-at-scale-intern-carnegie-mellon-university-49985?utm_source=github&utm_medium=readme&utm_campaign=internships) | Pittsburgh | 🔴 No | Oct 30 |
 | [Nintendo](https://swejoblists.com/company/nintendo?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Software Engineer Intern - Connectivity](https://swejoblists.com/jobs/software-engineer-intern-connectivity-nintendo-49694?utm_source=github&utm_medium=readme&utm_campaign=internships) | Redmond | 🔴 No | Oct 30 |
 | [Epic Games](https://swejoblists.com/company/epic-games?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Tools Programmer Intern - Graphics](https://swejoblists.com/jobs/tools-programmer-intern-graphics-epic-games-48238?utm_source=github&utm_medium=readme&utm_campaign=internships) | Cary | 🟡 Likely | Oct 30 |
@@ -1011,9 +1012,8 @@ Looking for new grad roles? See [TheoXiong7/2027-New-Grad-SWE-Jobs](https://gith
 | [Tevora](https://swejoblists.com/company/tevora?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Cybersecurity Internship Summer 2027 - International Organization for Standardization (ISO)](https://swejoblists.com/jobs/cybersecurity-internship-summer-2027-international-organization-for-tevora-48044?utm_source=github&utm_medium=readme&utm_campaign=internships) | Irvine, CA | 🟠 Unlikely | Oct 31 |
 | [Tevora](https://swejoblists.com/company/tevora?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Cybersecurity Internship Summer 2027 - Healthcare](https://swejoblists.com/jobs/cybersecurity-internship-summer-2027-healthcare-tevora-48043?utm_source=github&utm_medium=readme&utm_campaign=internships) | Irvine, CA | 🟠 Unlikely | Oct 31 |
 | [Tevora](https://swejoblists.com/company/tevora?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Cybersecurity Internship Summer 2027 - Enterprise Risk Management](https://swejoblists.com/jobs/cybersecurity-internship-summer-2027-enterprise-risk-management-tevora-48042?utm_source=github&utm_medium=readme&utm_campaign=internships) | Irvine, CA | 🟠 Unlikely | Oct 31 |
-| [Omnis](https://swejoblists.com/company/omnis?utm_source=github&utm_medium=readme&utm_campaign=internships) | [GNC Engineering Intern, ADCS and Orbit (Spring and Summer 2027)](https://swejoblists.com/jobs/gnc-engineering-intern-adcs-and-orbit-spring-and-summer-2027-omnis-48016?utm_source=github&utm_medium=readme&utm_campaign=internships) | Venice, CA | 🔴 No | Oct 31 |
 
-Showing the first 1,000 of 2,275 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 2,275 open roles on [swejoblists.com/?type=internship](https://swejoblists.com/?type=internship&utm_source=github&utm_medium=readme&utm_campaign=internships).
+Showing the first 1,000 of 2,276 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 2,276 open roles on [swejoblists.com/?type=internship](https://swejoblists.com/?type=internship&utm_source=github&utm_medium=readme&utm_campaign=internships).
 
 ---
 
