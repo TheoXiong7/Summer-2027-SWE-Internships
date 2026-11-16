@@ -1,12 +1,12 @@
 # Summer 2027 Software Engineering Internships
 
-Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/?type=internship&utm_source=github&utm_medium=readme&utm_campaign=internships) (free, no account). Last update: 2026-11-16 05:57 UTC.
+Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/?type=internship&utm_source=github&utm_medium=readme&utm_campaign=internships) (free, no account). Last update: 2026-11-16 15:28 UTC.
 
 This list shows only the roles labelled H-1B 🟢 Yes or 🟡 Likely. Every open role, whatever its label, is in [ALL_ROLES.md](ALL_ROLES.md).
 
 Looking for new grad roles? See [TheoXiong7/2027-New-Grad-SWE-Jobs](https://github.com/TheoXiong7/2027-New-Grad-SWE-Jobs).
 
-**Showing 574 of 2,260 open roles**: the ones labelled H-1B 🟢 Yes or 🟡 Likely, from **185 companies**, **120** added in the last 7 days. The other 1,686 (🟠 Unlikely, 🔴 No or not labelled yet) are in [ALL_ROLES.md](ALL_ROLES.md). Filters, company pages and match scores: [swejoblists.com/?type=internship](https://swejoblists.com/?type=internship&utm_source=github&utm_medium=readme&utm_campaign=internships).
+**Showing 575 of 2,265 open roles**: the ones labelled H-1B 🟢 Yes or 🟡 Likely, from **186 companies**, **121** added in the last 7 days. The other 1,690 (🟠 Unlikely, 🔴 No or not labelled yet) are in [ALL_ROLES.md](ALL_ROLES.md). Filters, company pages and match scores: [swejoblists.com/?type=internship](https://swejoblists.com/?type=internship&utm_source=github&utm_medium=readme&utm_campaign=internships).
 
 **H-1B column**: 🟢 Yes / 🟡 Likely = how likely the employer sponsors an H-1B visa for the role. A model reads each posting; it is a screen, not a guarantee.
 
@@ -548,6 +548,7 @@ Looking for new grad roles? See [TheoXiong7/2027-New-Grad-SWE-Jobs](https://gith
 | [Waymo](https://swejoblists.com/company/waymo?utm_source=github&utm_medium=readme&utm_campaign=internships) | [2027 Summer Intern, PhD, Research Scientist, Visual Reasoning](https://swejoblists.com/jobs/2027-summer-intern-phd-research-scientist-visual-reasoning-waymo-45915?utm_source=github&utm_medium=readme&utm_campaign=internships) | Mountain View, CA, USA | 🟡 Likely | Oct 19 |
 | [Palantir](https://swejoblists.com/company/palantir?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Software Engineer, Internship - Query Engines](https://swejoblists.com/jobs/software-engineer-internship-query-engines-palantir-45987?utm_source=github&utm_medium=readme&utm_campaign=internships) | New York | 🟡 Likely | Oct 19 |
 | [Waymo](https://swejoblists.com/company/waymo?utm_source=github&utm_medium=readme&utm_campaign=internships) | [2027 Summer Intern, PhD, Machine Learning - Simulation & Closed-Loop Training](https://swejoblists.com/jobs/2027-summer-intern-phd-machine-learning-simulation-closed-loop-training-waymo-45985?utm_source=github&utm_medium=readme&utm_campaign=internships) | Mountain View, California, United States | 🟡 Likely | Oct 19 |
+| [Octaura](https://swejoblists.com/company/octaura?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Intern, Data Engineering](https://swejoblists.com/jobs/intern-data-engineering-octaura-50067?utm_source=github&utm_medium=readme&utm_campaign=internships) | New York | 🟡 Likely | 0d |
 | [Cloudflare](https://swejoblists.com/company/cloudflare?utm_source=github&utm_medium=readme&utm_campaign=internships) | [People Team: Software Engineer Intern (Winter 2027)](https://swejoblists.com/jobs/people-team-software-engineer-intern-winter-2027-cloudflare-49956?utm_source=github&utm_medium=readme&utm_campaign=internships) | Hybrid | 🟡 Likely | 3d |
 | [Aurora Innovation](https://swejoblists.com/company/aurora-innovation?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Embedded Software Engineer Intern — Lidar](https://swejoblists.com/jobs/embedded-software-engineer-intern-lidar-aurora-innovation-49955?utm_source=github&utm_medium=readme&utm_campaign=internships) | Bozeman, MT | 🟡 Likely | 3d |
 | [Tacit](https://swejoblists.com/company/tacit?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Data Scientist Intern](https://swejoblists.com/jobs/data-scientist-intern-tacit-49629?utm_source=github&utm_medium=readme&utm_campaign=internships) | San Francisco | 🟡 Likely | 5d |
