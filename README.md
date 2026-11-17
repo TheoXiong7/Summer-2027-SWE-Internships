@@ -1,17 +1,19 @@
 # Summer 2027 Software Engineering Internships
 
-Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/?type=internship&utm_source=github&utm_medium=readme&utm_campaign=internships) (free, no account). Last update: 2026-11-17 10:29 UTC.
+Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/?type=internship&utm_source=github&utm_medium=readme&utm_campaign=internships) (free, no account). Last update: 2026-11-17 20:43 UTC.
 
 This list shows only the roles labelled H-1B 🟢 Yes or 🟡 Likely. Every open role, whatever its label, is in [ALL_ROLES.md](ALL_ROLES.md).
 
 Looking for new grad roles? See [TheoXiong7/2027-New-Grad-SWE-Jobs](https://github.com/TheoXiong7/2027-New-Grad-SWE-Jobs).
 
-**Showing 577 of 2,292 open roles**: the ones labelled H-1B 🟢 Yes or 🟡 Likely, from **186 companies**, **103** added in the last 7 days. The other 1,715 (🟠 Unlikely, 🔴 No or not labelled yet) are in [ALL_ROLES.md](ALL_ROLES.md). Filters, company pages and match scores: [swejoblists.com/?type=internship](https://swejoblists.com/?type=internship&utm_source=github&utm_medium=readme&utm_campaign=internships).
+**Showing 579 of 2,314 open roles**: the ones labelled H-1B 🟢 Yes or 🟡 Likely, from **187 companies**, **94** added in the last 7 days. The other 1,735 (🟠 Unlikely, 🔴 No or not labelled yet) are in [ALL_ROLES.md](ALL_ROLES.md). Filters, company pages and match scores: [swejoblists.com/?type=internship](https://swejoblists.com/?type=internship&utm_source=github&utm_medium=readme&utm_campaign=internships).
 
 **H-1B column**: 🟢 Yes / 🟡 Likely = how likely the employer sponsors an H-1B visa for the role. A model reads each posting; it is a screen, not a guarantee.
 
 | Company | Role | Location | H-1B | Posted |
 |---|---|---|:---:|---|
+| [Exowatt](https://swejoblists.com/company/exowatt?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Robotics & Physical AI Spring Intern (Miami)](https://swejoblists.com/jobs/robotics-physical-ai-spring-intern-miami-exowatt-50198?utm_source=github&utm_medium=readme&utm_campaign=internships) | Miami, FL | 🟡 Likely | 0d |
+| [Soros Fund Management](https://swejoblists.com/company/soros-fund-management?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Quantitative Strategist Intern](https://swejoblists.com/jobs/quantitative-strategist-intern-soros-fund-management-50160?utm_source=github&utm_medium=readme&utm_campaign=internships) | New York | 🟡 Likely | 0d |
 | [Clera](https://swejoblists.com/company/clera?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Full-Stack Software Engineering Intern](https://swejoblists.com/jobs/full-stack-software-engineering-intern-clera-50142?utm_source=github&utm_medium=readme&utm_campaign=internships) | New York | 🟢 Yes | 0d |
 | [TikTok](https://swejoblists.com/company/tiktok?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Client Security & Data Foundation Machine Learning Engineer Intern 🎓](https://swejoblists.com/jobs/client-security-data-foundation-machine-learning-engineer-intern-tiktok-50135?utm_source=github&utm_medium=readme&utm_campaign=internships) | San Jose | 🟡 Likely | 0d |
 | [LinkedIn](https://swejoblists.com/company/linkedin?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Systems & Infrastructure Engineer Intern, Masters - Summer 2027 (Mountain View, CA)](https://swejoblists.com/jobs/systems-infrastructure-engineer-intern-masters-summer-2027-mountain-view-ca-linkedin-50127?utm_source=github&utm_medium=readme&utm_campaign=internships) | Mountain View, CA, United States | 🟡 Likely | 1d |
