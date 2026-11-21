@@ -1,12 +1,12 @@
 # Summer 2027 Software Engineering Internships: All Roles
 
-Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/?type=internship&utm_source=github&utm_medium=readme&utm_campaign=internships) (free, no account). Last update: 2026-11-21 03:03 UTC.
+Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/?type=internship&utm_source=github&utm_medium=readme&utm_campaign=internships) (free, no account). Last update: 2026-11-21 12:22 UTC.
 
 This file lists every open role, whatever its H-1B label. The [README](README.md) shows only the roles labelled H-1B 🟢 Yes or 🟡 Likely.
 
 Looking for new grad roles? See [TheoXiong7/2027-New-Grad-SWE-Jobs](https://github.com/TheoXiong7/2027-New-Grad-SWE-Jobs).
 
-**3,205 open roles** from **863 companies**, **366** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/?type=internship](https://swejoblists.com/?type=internship&utm_source=github&utm_medium=readme&utm_campaign=internships).
+**3,245 open roles** from **886 companies**, **364** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/?type=internship](https://swejoblists.com/?type=internship&utm_source=github&utm_medium=readme&utm_campaign=internships).
 
 **H-1B column**: 🟢 Yes / 🟡 Likely / 🟠 Unlikely / 🔴 No = how likely the employer sponsors an H-1B visa for the role; — = not labelled yet. A model reads each posting; it is a screen, not a guarantee.
 
@@ -1013,7 +1013,7 @@ Looking for new grad roles? See [TheoXiong7/2027-New-Grad-SWE-Jobs](https://gith
 | [Northrop Grumman](https://swejoblists.com/company/northrop-grumman?utm_source=github&utm_medium=readme&utm_campaign=internships) | [2027 Cybersecurity Software Engineering Intern - Roy UT](https://swejoblists.com/jobs/2027-cybersecurity-software-engineering-intern-roy-ut-northrop-grumman-48703?utm_source=github&utm_medium=readme&utm_campaign=internships) | Clearfield | 🔴 No | Nov 4 |
 | [Northrop Grumman](https://swejoblists.com/company/northrop-grumman?utm_source=github&utm_medium=readme&utm_campaign=internships) | [2027 DevOps Software Engineering Intern - Roy UT](https://swejoblists.com/jobs/2027-devops-software-engineering-intern-roy-ut-northrop-grumman-48702?utm_source=github&utm_medium=readme&utm_campaign=internships) | Roy | 🔴 No | Nov 4 |
 
-Showing the first 1,000 of 3,205 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 3,205 open roles on [swejoblists.com/?type=internship](https://swejoblists.com/?type=internship&utm_source=github&utm_medium=readme&utm_campaign=internships).
+Showing the first 1,000 of 3,245 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 3,245 open roles on [swejoblists.com/?type=internship](https://swejoblists.com/?type=internship&utm_source=github&utm_medium=readme&utm_campaign=internships).
 
 ---
 
