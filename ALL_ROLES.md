@@ -1,17 +1,18 @@
 # Summer 2027 Software Engineering Internships: All Roles
 
-Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/?type=internship&utm_source=github&utm_medium=readme&utm_campaign=internships) (free, no account). Last update: 2026-11-22 02:01 UTC.
+Read from employers' public job boards (Greenhouse, Workday, Lever, Ashby, SmartRecruiters and more) and refreshed every 30 minutes by [swejoblists.com](https://swejoblists.com/?type=internship&utm_source=github&utm_medium=readme&utm_campaign=internships) (free, no account). Last update: 2026-11-22 09:36 UTC.
 
 This file lists every open role, whatever its H-1B label. The [README](README.md) shows only the roles labelled H-1B 🟢 Yes or 🟡 Likely.
 
 Looking for new grad roles? See [TheoXiong7/2027-New-Grad-SWE-Jobs](https://github.com/TheoXiong7/2027-New-Grad-SWE-Jobs).
 
-**3,215 open roles** from **905 companies**, **369** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/?type=internship](https://swejoblists.com/?type=internship&utm_source=github&utm_medium=readme&utm_campaign=internships).
+**3,265 open roles** from **916 companies**, **368** added in the last 7 days. Filters, company pages and match scores: [swejoblists.com/?type=internship](https://swejoblists.com/?type=internship&utm_source=github&utm_medium=readme&utm_campaign=internships).
 
 **H-1B column**: 🟢 Yes / 🟡 Likely / 🟠 Unlikely / 🔴 No = how likely the employer sponsors an H-1B visa for the role; — = not labelled yet. A model reads each posting; it is a screen, not a guarantee.
 
 | Company | Role | Location | H-1B | Posted |
 |---|---|---|:---:|---|
+| [Neros Technologies](https://swejoblists.com/company/neros-technologies?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Firmware/​Embedded Software Engineer Intern - Summer 2027](https://swejoblists.com/jobs/firmware-embedded-software-engineer-intern-summer-2027-neros-technologies-50897?utm_source=github&utm_medium=readme&utm_campaign=internships) | Torrance, California, United States | 🟠 Unlikely | 0d |
 | [Biohub](https://swejoblists.com/company/biohub?utm_source=github&utm_medium=readme&utm_campaign=internships) | [AI Research Scientist Intern](https://swejoblists.com/jobs/ai-research-scientist-intern-biohub-50841?utm_source=github&utm_medium=readme&utm_campaign=internships) | New York, NY (Hybrid); Redwood City, CA (Hybrid) | 🔴 No | 2d |
 | [Woodward Governor](https://swejoblists.com/company/woodward-governor?utm_source=github&utm_medium=readme&utm_campaign=internships) | [AI Intern](https://swejoblists.com/jobs/ai-intern-woodward-governor-50839?utm_source=github&utm_medium=readme&utm_campaign=internships) | Niles | 🟠 Unlikely | 2d |
 | [Lucid Motors](https://swejoblists.com/company/lucid-motors?utm_source=github&utm_medium=readme&utm_campaign=internships) | [ADAS Platform Tools Intern 🎓](https://swejoblists.com/jobs/adas-platform-tools-intern-lucid-motors-50836?utm_source=github&utm_medium=readme&utm_campaign=internships) | Newark | 🟢 Yes | 1d |
@@ -1011,9 +1012,8 @@ Looking for new grad roles? See [TheoXiong7/2027-New-Grad-SWE-Jobs](https://gith
 | [Blackhawk Network Holdings](https://swejoblists.com/company/blackhawk-network-holdings?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Technology Intern](https://swejoblists.com/jobs/technology-intern-blackhawk-network-holdings-48622?utm_source=github&utm_medium=readme&utm_campaign=internships) | Coppell | 🟡 Likely | Nov 5 |
 | [General Dynamics Mission Systems](https://swejoblists.com/company/general-dynamics-mission-systems?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Software Engineering Intern](https://swejoblists.com/jobs/software-engineering-intern-general-dynamics-mission-systems-48621?utm_source=github&utm_medium=readme&utm_campaign=internships) | Manassas | 🔴 No | Nov 5 |
 | [General Dynamics Mission Systems](https://swejoblists.com/company/general-dynamics-mission-systems?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Software Engineering Intern](https://swejoblists.com/jobs/software-engineering-intern-general-dynamics-mission-systems-48620?utm_source=github&utm_medium=readme&utm_campaign=internships) | Lakewood | 🔴 No | Nov 5 |
-| [Trajectory](https://swejoblists.com/company/trajectory?utm_source=github&utm_medium=readme&utm_campaign=internships) | [Member of Technical Staff - Generalist](https://swejoblists.com/jobs/member-of-technical-staff-generalist-trajectory-50471?utm_source=github&utm_medium=readme&utm_campaign=internships) | San Francisco | 🟡 Likely | Nov 5 |
 
-Showing the first 1,000 of 3,215 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 3,215 open roles on [swejoblists.com/?type=internship](https://swejoblists.com/?type=internship&utm_source=github&utm_medium=readme&utm_campaign=internships).
+Showing the first 1,000 of 3,265 roles: this file holds at most 1,000 rows (about 400 KB) so GitHub shows it in full. See all 3,265 open roles on [swejoblists.com/?type=internship](https://swejoblists.com/?type=internship&utm_source=github&utm_medium=readme&utm_campaign=internships).
 
 ---
 
